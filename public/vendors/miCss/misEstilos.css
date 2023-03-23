@@ -1,0 +1,155 @@
+/* DATATABLE */
+/* COLOR DEL THEAD DEL DATATABLE */
+
+
+
+
+
+.estado{
+	text-align: center;
+}
+
+.boton{
+	text-align: center;
+}
+
+/* MODALES */
+.modal-header{
+	background-color:#a29899;
+}
+
+.asterisco{
+	color: red;
+}
+
+.panel-body {
+    padding: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+
+.excel {
+
+   background-color: #207245;
+   color: white;
+
+}
+
+.input {
+    height: 30px;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+
+
+
+ 
+
+ #matr2 {
+   position: relative;
+  left: 70px;
+
+}
+
+
+
+ #matri{
+   position: relative;
+  left: 70px;
+
+}
+
+
+
+ #acom {
+   position: relative;
+  left: 130px;
+
+}
+
+#acomp2 {
+   position: relative;
+  left: 130px;
+
+}
+
+#edu {
+   position: relative;
+  left: 190px;
+
+}
+
+#educ2 {
+   position: relative;
+  left: 190px;
+
+}
+
+#ext {
+   position: relative;
+  left: 70px;
+
+}
+
+
+
+ #extra2 {
+   position: relative;
+  left: 70px;
+
+}
+
+#jor {
+   position: relative;
+  left: 130px;
+
+}
+
+#jorn2 {
+   position: relative;
+  left: 130px;
+
+}
+
+#sal {
+   position: relative;
+  left: 190px;
+
+}
+
+#salu2 {
+   position: relative;
+  left: 190px;
+
+}
+
+#pers {
+   position: relative;
+  left: 70px;
+
+}
+
+
+
+ #perso2 {
+   position: relative;
+  left: 70px;
+
+}
+
+#gra {
+   position: relative;
+  left: 130px;
+
+}
+
+#grados2 {
+   position: relative;
+  left: 130px;
+
+}
